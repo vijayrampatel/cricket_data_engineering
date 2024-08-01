@@ -7,3 +7,4 @@ local-directory/spark-env.sh
 local-directory/spark-env.sh.template
 local-directory/workers.template
 local-directory/__pycache__
+local-directory/pickle_functions/__pycache__/pickle.cpython-311.pyc
